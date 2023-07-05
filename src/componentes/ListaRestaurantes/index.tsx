@@ -59,7 +59,7 @@ const ListaRestaurantes = () => {
     },
     {
       id: 3,
-      nome: "Cantina da Escola",
+      nome: "Cantina da Es",
       pratos: [
         {
           id: 1,
