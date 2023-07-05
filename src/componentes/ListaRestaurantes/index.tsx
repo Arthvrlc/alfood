@@ -86,6 +86,13 @@ const ListaRestaurantes = () => {
           tag: 'Lanche'
         }
       ]
+    },
+    {
+      id: 4,
+      nome: "Cafeteria Drops",
+      pratos: [
+       
+      ]
     }
   ]
 
